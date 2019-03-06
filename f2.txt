@@ -3,3 +3,4 @@ this is  a file f2.
 3rd line added to the file f2.
 4th line added to the file f2.
 5th line added in f2.          
+3rd line added to the file f2.
